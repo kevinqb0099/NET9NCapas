@@ -1,0 +1,11 @@
+create database dbLayer
+
+use dbLayer
+
+create table Product(
+IdProduct int primary key identity,
+Name varchar(50),
+Price int
+)
+
+select * from Product
