@@ -1,0 +1,15 @@
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\bin\Debug\net9.0\2. BusinessLayer.deps.json
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\bin\Debug\net9.0\2. BusinessLayer.dll
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\bin\Debug\net9.0\2. BusinessLayer.pdb
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\bin\Debug\net9.0\3. DataLayer.dll
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\bin\Debug\net9.0\3. DataLayer.pdb
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\2. BusinessLayer.csproj.AssemblyReference.cache
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\2. BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\2. BusinessLayer.AssemblyInfoInputs.cache
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\2. BusinessLayer.AssemblyInfo.cs
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\2. BusinessLayer.csproj.CoreCompileInputs.cache
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\2. Busin.3F70AD98.Up2Date
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\2. BusinessLayer.dll
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\refint\2. BusinessLayer.dll
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\2. BusinessLayer.pdb
+D:\C#\CRUD_NET9\WebApiNLayers\2. BusinessLayer\obj\Debug\net9.0\ref\2. BusinessLayer.dll

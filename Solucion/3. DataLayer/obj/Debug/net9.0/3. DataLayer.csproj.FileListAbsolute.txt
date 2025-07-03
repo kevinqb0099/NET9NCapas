@@ -1,0 +1,12 @@
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\bin\Debug\net9.0\3. DataLayer.deps.json
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\bin\Debug\net9.0\3. DataLayer.dll
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\bin\Debug\net9.0\3. DataLayer.pdb
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\3. DataLayer.csproj.AssemblyReference.cache
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\3. DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\3. DataLayer.AssemblyInfoInputs.cache
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\3. DataLayer.AssemblyInfo.cs
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\3. DataLayer.csproj.CoreCompileInputs.cache
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\3. DataLayer.dll
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\refint\3. DataLayer.dll
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\3. DataLayer.pdb
+D:\C#\CRUD_NET9\WebApiNLayers\3. DataLayer\obj\Debug\net9.0\ref\3. DataLayer.dll
